@@ -1,0 +1,8 @@
+com\self\code\config\HelloProperties.class
+com\self\code\format\FormatInterface.class
+com\self\code\config\FormatConfiguration.class
+com\self\code\config\HelloTemplateConfiguration.class
+com\self\code\format\StringFormatProcessor.class
+com\self\code\HelloFormatTemplate.class
+META-INF\spring-configuration-metadata.json
+com\self\code\format\JsonFormatProcessor.class

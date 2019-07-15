@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "com.self.code",
+      "type": "com.self.code.config.HelloProperties",
+      "sourceType": "com.self.code.config.HelloProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "com.self.code.info",
+      "type": "java.util.Map<java.lang.String,java.lang.Object>",
+      "sourceType": "com.self.code.config.HelloProperties"
+    }
+  ],
+  "hints": []
+}

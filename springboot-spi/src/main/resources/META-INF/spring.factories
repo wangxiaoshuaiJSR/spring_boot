@@ -1,0 +1,2 @@
+# Auto Configure ×Ô¶¯×°Åä
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.self.code.SPIConfiguration
