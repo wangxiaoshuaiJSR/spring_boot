@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="rpc-api" />
+        <module name="rpc-consumer" />
+        <module name="rpc-protocol" />
+        <module name="rpc-provider" />
+        <module name="rpc-registry" />
+        <module name="zookeeper-curd" />
+        <module name="zookeeper-lock" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="microservice_study" target="1.5" />
+      <module name="rpc-api" target="1.5" />
+      <module name="rpc-consumer" target="1.8" />
+      <module name="rpc-protocol" target="1.5" />
+      <module name="rpc-provider" target="1.5" />
+      <module name="rpc-registry" target="1.5" />
+      <module name="zookeeper-curd" target="1.8" />
+      <module name="zookeeper-lock" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
